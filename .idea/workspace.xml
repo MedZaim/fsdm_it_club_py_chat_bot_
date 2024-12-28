@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d463d4c-6901-4cd1-863a-da0501a11d6e" name="Changes" comment="sit up the project">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5d463d4c-6901-4cd1-863a-da0501a11d6e" name="Changes" comment="Add project setup files and initial README&#10;&#10;Configured the project with required `.idea` files for VCS integration and added a comprehensive `README.md` for project documentation. The README details setup instructions, features, and contribution guidelines for the FSDM IT Club chatbot." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +97,7 @@
       <workItem from="1735203632802" duration="1250000" />
       <workItem from="1735218047170" duration="594000" />
       <workItem from="1735381076598" duration="2480000" />
-      <workItem from="1735383733870" duration="1585000" />
+      <workItem from="1735383733870" duration="2269000" />
     </task>
     <task id="LOCAL-00001" summary="Rename main.py to app.py  &#10;&#10;This change improves clarity by renaming the entry point file to better reflect its purpose. Updating the name aligns with common naming conventions.">
       <option name="closed" value="true" />
@@ -150,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735384057632</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add project setup files and initial README&#10;&#10;Configured the project with required `.idea` files for VCS integration and added a comprehensive `README.md` for project documentation. The README details setup instructions, features, and contribution guidelines for the FSDM IT Club chatbot.">
+      <option name="closed" value="true" />
+      <created>1735386242759</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735386242759</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +176,7 @@
     <MESSAGE value="Rename main.py to app.py  &#10;&#10;This change improves clarity by renaming the entry point file to better reflect its purpose. Updating the name aligns with common naming conventions." />
     <MESSAGE value="Remove animation.mp4 file.&#10;&#10;The file animation.mp4 was deleted from the repository, likely because it is no longer required or relevant to the project. This reduces unnecessary storage usage and keeps the repository clean and focused." />
     <MESSAGE value="sit up the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="sit up the project" />
+    <MESSAGE value="Add project setup files and initial README&#10;&#10;Configured the project with required `.idea` files for VCS integration and added a comprehensive `README.md` for project documentation. The README details setup instructions, features, and contribution guidelines for the FSDM IT Club chatbot." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add project setup files and initial README&#10;&#10;Configured the project with required `.idea` files for VCS integration and added a comprehensive `README.md` for project documentation. The README details setup instructions, features, and contribution guidelines for the FSDM IT Club chatbot." />
   </component>
 </project>
