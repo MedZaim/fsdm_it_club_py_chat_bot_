@@ -1,0 +1,47 @@
+{
+  "candidates": [
+    {
+      "content": {
+        "parts": [
+          {
+            "text": "I'm sorry, but I need more information about the club you're asking about. Could you please tell me which club you're interested in? I'd be happy to share their activities with you."
+          }
+        ],
+        "role": "model"
+      },
+      "finish_reason": 1,
+      "index": 0,
+      "safety_ratings": [
+        {
+          "category": 9,
+          "probability": 1,
+          "blocked": false
+        },
+        {
+          "category": 8,
+          "probability": 1,
+          "blocked": false
+        },
+        {
+          "category": 7,
+          "probability": 1,
+          "blocked": false
+        },
+        {
+          "category": 10,
+          "probability": 1,
+          "blocked": false
+        }
+      ],
+      "token_count": 0,
+      "grounding_attributions": [],
+      "avg_logprobs": 0
+    }
+  ],
+  "usage_metadata": {
+    "prompt_token_count": 8,
+    "candidates_token_count": 44,
+    "total_token_count": 52,
+    "cached_content_token_count": 0
+  }
+}
