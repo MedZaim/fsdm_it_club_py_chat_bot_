@@ -80,7 +80,6 @@ Ensure you have the following installed:
 ---
 
 ## File Structure
----
 .            
 ├── main.py # Main application file            
 ├── templates/             

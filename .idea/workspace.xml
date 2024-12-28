@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d463d4c-6901-4cd1-863a-da0501a11d6e" name="Changes" comment="Add project setup files and initial README&#10;&#10;Configured the project with required `.idea` files for VCS integration and added a comprehensive `README.md` for project documentation. The README details setup instructions, features, and contribution guidelines for the FSDM IT Club chatbot." />
+    <list default="true" id="5d463d4c-6901-4cd1-863a-da0501a11d6e" name="Changes" comment="Edit in README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +97,7 @@
       <workItem from="1735203632802" duration="1250000" />
       <workItem from="1735218047170" duration="594000" />
       <workItem from="1735381076598" duration="2480000" />
-      <workItem from="1735383733870" duration="2269000" />
+      <workItem from="1735383733870" duration="2601000" />
     </task>
     <task id="LOCAL-00001" summary="Rename main.py to app.py  &#10;&#10;This change improves clarity by renaming the entry point file to better reflect its purpose. Updating the name aligns with common naming conventions.">
       <option name="closed" value="true" />
@@ -155,7 +155,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735386242759</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add project setup files and initial README&#10;&#10;Configured the project with required `.idea` files for VCS integration and added a detailed `README.md`. The README outlines setup instructions, features, and contribution guidelines for the FSDM IT Club chatbot. This ensures a clear starting point and better organization for collaborators.">
+      <option name="closed" value="true" />
+      <created>1735386447089</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735386447089</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Edit in README.md">
+      <option name="closed" value="true" />
+      <created>1735386588962</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1735386588962</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,6 +193,8 @@
     <MESSAGE value="Remove animation.mp4 file.&#10;&#10;The file animation.mp4 was deleted from the repository, likely because it is no longer required or relevant to the project. This reduces unnecessary storage usage and keeps the repository clean and focused." />
     <MESSAGE value="sit up the project" />
     <MESSAGE value="Add project setup files and initial README&#10;&#10;Configured the project with required `.idea` files for VCS integration and added a comprehensive `README.md` for project documentation. The README details setup instructions, features, and contribution guidelines for the FSDM IT Club chatbot." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add project setup files and initial README&#10;&#10;Configured the project with required `.idea` files for VCS integration and added a comprehensive `README.md` for project documentation. The README details setup instructions, features, and contribution guidelines for the FSDM IT Club chatbot." />
+    <MESSAGE value="Add project setup files and initial README&#10;&#10;Configured the project with required `.idea` files for VCS integration and added a detailed `README.md`. The README outlines setup instructions, features, and contribution guidelines for the FSDM IT Club chatbot. This ensures a clear starting point and better organization for collaborators." />
+    <MESSAGE value="Edit in README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit in README.md" />
   </component>
 </project>
