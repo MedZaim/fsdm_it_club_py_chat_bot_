@@ -81,11 +81,11 @@ Ensure you have the following installed:
 
 ## File Structure
 .            
-├── main.py # Main application file            
+├── main.py            
 ├── templates/             
-│      └── index.html # Frontend HTML template for the chatbot UI     
-├── requirements.txt # List of required Python dependencies    
-└── README.md # Documentation for the FSDM IT Club Chatbot project   
+│      └── index.html    
+├── requirements.txt  
+└── README.md    
 ---
 
 ## How It Works
