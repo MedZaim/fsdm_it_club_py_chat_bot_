@@ -24,7 +24,7 @@ Ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <https://github.com/MedZaim/fsdm_it_club_py_chat_bot_>
+   git clone https://github.com/MedZaim/fsdm_it_club_py_chat_bot_
    cd <repository-folder>
    ```
 
