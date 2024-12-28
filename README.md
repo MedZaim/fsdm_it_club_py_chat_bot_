@@ -79,13 +79,15 @@ Ensure you have the following installed:
 
 ---
 
-## File Structure
+## Project Structure
+```
 .            
 ├── main.py            
 ├── templates/             
 │      └── index.html    
 ├── requirements.txt  
 └── README.md    
+```
 ---
 
 ## How It Works

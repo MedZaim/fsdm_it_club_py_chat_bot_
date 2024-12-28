@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d463d4c-6901-4cd1-863a-da0501a11d6e" name="Changes" comment="Edit in README.md" />
+    <list default="true" id="5d463d4c-6901-4cd1-863a-da0501a11d6e" name="Changes" comment="Simplify README file structure descriptions.&#10;&#10;Removed redundant comments in the file structure section to improve readability. This change ensures the README remains concise and focused on key information." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +97,7 @@
       <workItem from="1735203632802" duration="1250000" />
       <workItem from="1735218047170" duration="594000" />
       <workItem from="1735381076598" duration="2480000" />
-      <workItem from="1735383733870" duration="2601000" />
+      <workItem from="1735383733870" duration="2922000" />
     </task>
     <task id="LOCAL-00001" summary="Rename main.py to app.py  &#10;&#10;This change improves clarity by renaming the entry point file to better reflect its purpose. Updating the name aligns with common naming conventions.">
       <option name="closed" value="true" />
@@ -171,7 +171,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735386588962</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Edit in README.md">
+      <option name="closed" value="true" />
+      <created>1735386758973</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1735386758973</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Simplify README file structure descriptions.&#10;&#10;Removed redundant comments in the file structure section to improve readability. This change ensures the README remains concise and focused on key information.">
+      <option name="closed" value="true" />
+      <created>1735386909550</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1735386909550</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +211,7 @@
     <MESSAGE value="Add project setup files and initial README&#10;&#10;Configured the project with required `.idea` files for VCS integration and added a comprehensive `README.md` for project documentation. The README details setup instructions, features, and contribution guidelines for the FSDM IT Club chatbot." />
     <MESSAGE value="Add project setup files and initial README&#10;&#10;Configured the project with required `.idea` files for VCS integration and added a detailed `README.md`. The README outlines setup instructions, features, and contribution guidelines for the FSDM IT Club chatbot. This ensures a clear starting point and better organization for collaborators." />
     <MESSAGE value="Edit in README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit in README.md" />
+    <MESSAGE value="Simplify README file structure descriptions.&#10;&#10;Removed redundant comments in the file structure section to improve readability. This change ensures the README remains concise and focused on key information." />
+    <option name="LAST_COMMIT_MESSAGE" value="Simplify README file structure descriptions.&#10;&#10;Removed redundant comments in the file structure section to improve readability. This change ensures the README remains concise and focused on key information." />
   </component>
 </project>
