@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d463d4c-6901-4cd1-863a-da0501a11d6e" name="Changes" comment="Update README file structure section&#10;&#10;Simplified and reformatted the file structure description in the README to enhance Project Structure" />
+    <list default="true" id="5d463d4c-6901-4cd1-863a-da0501a11d6e" name="Changes" comment="correct cloning address">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -97,7 +99,7 @@
       <workItem from="1735203632802" duration="1250000" />
       <workItem from="1735218047170" duration="594000" />
       <workItem from="1735381076598" duration="2480000" />
-      <workItem from="1735383733870" duration="3519000" />
+      <workItem from="1735383733870" duration="8913000" />
     </task>
     <task id="LOCAL-00001" summary="Rename main.py to app.py  &#10;&#10;This change improves clarity by renaming the entry point file to better reflect its purpose. Updating the name aligns with common naming conventions.">
       <option name="closed" value="true" />
@@ -195,7 +197,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735387106433</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="correct cloning address">
+      <option name="closed" value="true" />
+      <created>1735387660048</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1735387660049</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +232,7 @@
     <MESSAGE value="Simplify README file structure descriptions.&#10;&#10;Removed redundant comments in the file structure section to improve readability. This change ensures the README remains concise and focused on key information." />
     <MESSAGE value="improving project Structure" />
     <MESSAGE value="Update README file structure section&#10;&#10;Simplified and reformatted the file structure description in the README to enhance Project Structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README file structure section&#10;&#10;Simplified and reformatted the file structure description in the README to enhance Project Structure" />
+    <MESSAGE value="correct cloning address" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct cloning address" />
   </component>
 </project>

@@ -3,6 +3,8 @@ from fastapi.middleware.cors import CORSMiddleware
 import google.generativeai as genai
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
+import os
+from dotenv import load_dotenv
 
 app = FastAPI()
 templates = Jinja2Templates(directory="templates")
@@ -25,8 +27,13 @@ async def say_hello(request: Request):
     data = await request.json()
     message = data.get("message")
 
-    genai.configure(api_key="AIzaSyAriovt4o-xOOLVvX9VVTIlVbDGV7R1zVc")
-    model = genai.GenerativeModel("tunedModels/fsdmitclubprompts-at2t7npovo8l")
+    API_KEY = os.getenv("API_KEY")
+    MODEL_NAME = os.getenv("MODEL_NAME")
+
+    genai.configure(api_key=os.getenv("API_KEY"))
+    model = genai.GenerativeModel(os.getenv("MODEL_NAME"))
+
+
     response = model.generate_content(message)
 
     message_text = response.to_dict()['candidates'][0]['content']['parts'][0]['text']
